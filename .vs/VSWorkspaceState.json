@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Config",
+    "\\app\\Controller",
+    "\\app\\Model",
+    "\\app\\Plugin",
+    "\\app\\View",
+    "\\app\\View\\TFeeds",
+    "\\app\\webroot"
+  ],
+  "SelectedNode": "\\app\\Model\\TFeed.php",
+  "PreviewInSolutionExplorer": false
+}
